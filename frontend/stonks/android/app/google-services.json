@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956483255363",
+    "project_id": "stonks-e7689",
+    "storage_bucket": "stonks-e7689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956483255363:android:be2f3016b8afe4425568f6",
+        "android_client_info": {
+          "package_name": "com.stonks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa1SZAMv5PG2RDaq1Zg9FYNoU1R4m6LXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
